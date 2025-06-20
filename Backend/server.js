@@ -301,5 +301,5 @@ app.delete('/api/applications', async (req, res) => {
 
 // Start server
 app.listen(port, () => {
-    console.log(`Server running at http://54.175.104.96:${port}`);
+    console.log(`Server running at http://54.81.30.45:${port}`);
 });
