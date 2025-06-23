@@ -20,7 +20,7 @@ services:
     container_name: sindhuja_backend
     restart: always
     ports:
-      - "3017:3017"
+      - "3056:3056"
     depends_on:
       - postgres
     volumes:
